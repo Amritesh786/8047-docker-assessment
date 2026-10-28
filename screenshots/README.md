@@ -1,0 +1,1 @@
+Place original screenshots captured from your own machine here. No screenshots have been fabricated or added.

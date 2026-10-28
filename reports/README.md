@@ -1,0 +1,1 @@
+Trivy scripts write actual scan output here. No scan result has been run or recorded yet.
